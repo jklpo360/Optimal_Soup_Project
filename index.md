@@ -44,9 +44,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### _A 5 part docu-blog by Erik DeVries Smith_ 
 
 
-[Part One](https://jklpo360.github.io/Optimal_Soup_Project/parts/partone.md)
+[Part One - Introduction](https://jklpo360.github.io/Optimal_Soup_Project/parts/partone.md)
 
-[Part Two](https://jklpo360.github.io/Optimal_Soup_Project/parts/parttwo.md)
+[Part Two - Choosing the Candidates](https://jklpo360.github.io/Optimal_Soup_Project/parts/parttwo.md)
 
 [Part Three](https://jklpo360.github.io/Optimal_Soup_Project/parts/partthree.md)
 
