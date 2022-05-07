@@ -44,12 +44,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### _A 5 part docu-blog by Erik DeVries Smith_ 
 
 
-[Part One - Introduction](https://jklpo360.github.io/Optimal_Soup_Project/parts/partone)
+[Part One - Introduction](https://jklpo360.github.io/Optimal_Soup_Project/parts/1)
 
-[Part Two - Choosing the Candidates](https://jklpo360.github.io/Optimal_Soup_Project/parts/parttwo)
+[Part Two - Choosing the Candidates](https://jklpo360.github.io/Optimal_Soup_Project/parts/2)
 
-[Part Three](https://jklpo360.github.io/Optimal_Soup_Project/parts/partthree)
+[Part Three - Defining the Grading Criteria](https://jklpo360.github.io/Optimal_Soup_Project/parts/3)
 
-[Part Four](https://jklpo360.github.io/Optimal_Soup_Project/parts/partfour)
+[Part Four - Creating the Calculator](https://jklpo360.github.io/Optimal_Soup_Project/parts/4)
 
-[Part Five](https://jklpo360.github.io/Optimal_Soup_Project/parts/partfive)
+[Part Five - Results](https://jklpo360.github.io/Optimal_Soup_Project/parts/5)
