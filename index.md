@@ -45,7 +45,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 [Part One](https://jklpo360.github.io/Optimal_Soup_Project/parts/partone.md)
+
 [Part Two](https://jklpo360.github.io/Optimal_Soup_Project/parts/parttwo.md)
+
 [Part Three](https://jklpo360.github.io/Optimal_Soup_Project/parts/partthree.md)
+
 [Part Four](https://jklpo360.github.io/Optimal_Soup_Project/parts/partfour.md)
+
 [Part Five](https://jklpo360.github.io/Optimal_Soup_Project/parts/partfive.md)
