@@ -38,18 +38,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-
-# Searching for the Optimal Soup
-
-### _A 5 part docu-blog by Erik DeVries Smith_ 
-
-
-[Part One - Introduction](https://jklpo360.github.io/Optimal_Soup_Project/parts/1)
-
-[Part Two - Choosing the Candidates](https://jklpo360.github.io/Optimal_Soup_Project/parts/2)
-
-[Part Three - Defining the Grading Criteria](https://jklpo360.github.io/Optimal_Soup_Project/parts/3)
-
-[Part Four - Creating the Calculator](https://jklpo360.github.io/Optimal_Soup_Project/parts/4)
-
-[Part Five - Results](https://jklpo360.github.io/Optimal_Soup_Project/parts/5)
