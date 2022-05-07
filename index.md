@@ -35,3 +35,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+# Searching for the Optimal Soup
+
+### _A 5 part docu-blog by Erik DeVries Smith_ 
+
+
+[Part One](https://jklpo360.github.io/Optimal_Soup_Project/parts/partone.md)
+[Part Two](https://jklpo360.github.io/Optimal_Soup_Project/parts/parttwo.md)
+[Part Three](https://jklpo360.github.io/Optimal_Soup_Project/parts/partthree.md)
+[Part Four](https://jklpo360.github.io/Optimal_Soup_Project/parts/partfour.md)
+[Part Five](https://jklpo360.github.io/Optimal_Soup_Project/parts/partfive.md)
