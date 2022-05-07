@@ -46,10 +46,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 [Part One - Introduction](https://jklpo360.github.io/Optimal_Soup_Project/parts/partone)
 
-[Part Two - Choosing the Candidates](https://jklpo360.github.io/Optimal_Soup_Project/parts/parttwo.md)
+[Part Two - Choosing the Candidates](https://jklpo360.github.io/Optimal_Soup_Project/parts/parttwo)
 
-[Part Three](https://jklpo360.github.io/Optimal_Soup_Project/parts/partthree.md)
+[Part Three](https://jklpo360.github.io/Optimal_Soup_Project/parts/partthree)
 
-[Part Four](https://jklpo360.github.io/Optimal_Soup_Project/parts/partfour.md)
+[Part Four](https://jklpo360.github.io/Optimal_Soup_Project/parts/partfour)
 
-[Part Five](https://jklpo360.github.io/Optimal_Soup_Project/parts/partfive.md)
+[Part Five](https://jklpo360.github.io/Optimal_Soup_Project/parts/partfive)
